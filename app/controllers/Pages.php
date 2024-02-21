@@ -9,7 +9,7 @@
     {
   
     $data =[
-        'title' => 'Welcome',
+        'title' => 'MVC approach/method',
        
     ];
 
